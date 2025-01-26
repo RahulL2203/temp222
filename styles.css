@@ -2,8 +2,13 @@ body{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .greetings{
-    height: 100vh;
     display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.greet_morning{
+    display: flex;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     align-items: center;
     justify-content: center;
 }
