@@ -1,0 +1,9 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.greetings{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
